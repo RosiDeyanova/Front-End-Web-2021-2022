@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>JS Bin</title>
+</head>
+<body>
+
+  <div id="wrapper">
+    <header>
+        <img src="https://www.freeiconspng.com/thumbs/person-icon/clipart--person-icon--cliparts-15.png" width="15">
+        <p>Мартин Христов</p>
+        <span><b>Администратор</b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/large-orange-diamond_1f536.png" width="15"> 16 октомври в 14:34<span>
+        <hr/>
+    </header>
+    <main>
+      <article>
+        <h1>Упражнения в неделя</h1>
+        <p>Ще имаме упражнения в <strong>Неделя 24.10.2021.</strong>То ще се проведе <strong>онлайн.</strong>Темата ще е <strong>HTML.</strong>За провеждането му ще са ви нужни:</p>
+        <ul>
+          <li>Интернет връзка</li>
+          <li>Компютър</li>
+          <li>Клавиатура</li>
+          <li>Една идея по-идеен лектор, тъй като не мога да измисля <i>нищо</i></li>
+        </ul>
+        <span><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/thumbs-up_1f44d.png" width="15"> 9 <a href="https://www.facebook.com/photo/?fbid=4956455024382205&set=gm.387221996279095">Виж истинския пост във фейсбук</a></span>
+        <hr/>
+      </article>
+      <section>
+        <button type="submit"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/thumbs-up_1f44d.png" width="15"><span> Харесай</span></button>
+        <button type="submit"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/writing-hand_270d-fe0f.png" width="15"><span> Коментирай</span></button>
+        <hr/>
+      </section>
+      <section>
+        <em>Коментари</em>
+        <ol>
+          <li>Иван Иванов: <b>Много яко</b></li>
+          <li>Петър Петров: <b>Трябва ли ми ваксина, за да присъствам онлайн?</b></li>
+        </ol>
+        <span>
+          <input type="text" placeholder="Напиши коментар">
+          <button type="submit">Изпрати</button>
+        </span>
+      </section>
+    </main>
+  </div>
+
+</body>
+</html>
